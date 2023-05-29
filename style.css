@@ -1,0 +1,47 @@
+header, 
+footer,
+.container-1,
+.info {
+    background-color: #1f2937;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+a,
+.sec-text {
+font-size: 18px;
+color: #e5e7eb;
+}
+
+.logo {
+font-size: 24px;
+color: #f9faf8;
+}
+
+button,
+#signup{
+    color: #3882f6;
+}
+
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.container-3 {
+    background-color: #e5e7eb;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.hero {
+    text-align: right;
+}
